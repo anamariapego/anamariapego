@@ -9,6 +9,10 @@
 
 * *Site Portfólio  - ainda em contrução* :globe_with_meridians:
 
+<p align="right">
+  <img src="ativo.png" width="450" title="hover text">
+</p>
+
 **Conecte-se comigo:**
 <a href="mailto:anapinheiro0404@gmail.com" alt="gmail" target="_blank">
 
@@ -24,8 +28,5 @@
 
 <p> </p>
 
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamariapego&show_icons=true&theme=dark)
