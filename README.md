@@ -1,8 +1,8 @@
 
 
 ## Hi there 👋, Bem vindo(a)!
+----
 
----
 
 <a href="mailto:anapinheiro0404@gmail.com" alt="gmail" target="_blank">
 
@@ -21,3 +21,4 @@ Sou estudante de ciência de dados na Izabela Hendrix
 
 Trabalho na empresa JDC Informática
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamariapego&show_icons=true&theme=dark)
