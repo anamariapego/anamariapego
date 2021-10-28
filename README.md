@@ -1,7 +1,10 @@
+<div align = "center">
+  <h2> Hi there, Bem vindo(a) 👋</h2> 
+</div>
 
-
-## Hi there, Bem vindo(a)!👋
-
+<div>
+    <img src="ativo.png" width="350" align="right">
+</div>
 
 * Sou estudante de ciência de dados na Izabela Hendrix :woman_technologist:
 
@@ -9,9 +12,6 @@
 
 * *Site Portfólio  - ainda em contrução* :globe_with_meridians:
 
-<p align="right">
-  <img src="ativo.png" width="450" title="hover text">
-</p>
 
 **Conecte-se comigo:**
 <a href="mailto:anapinheiro0404@gmail.com" alt="gmail" target="_blank">
@@ -27,6 +27,5 @@
 </a>
 
 <p> </p>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamariapego&show_icons=true&theme=dark)
