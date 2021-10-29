@@ -10,7 +10,7 @@
 
 * Trabalho na empresa JDC Informática. :office:
 
-* *Site Portfólio  - ainda em contrução*. :globe_with_meridians:
+* *Site Portfólio  - ainda em construção*. :globe_with_meridians:
 
 
 **Conecte-se comigo:**
