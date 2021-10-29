@@ -6,7 +6,7 @@
     <img src="undraw_Dev_focus_re_6iwt.png" width="450" align="right">
 </div>
 
-* Sou estudante de ciência de dados na Izabela Hendrix. :woman_technologist:
+* Cientista de Dados. :woman_technologist:
 
 * Trabalho na empresa JDC Informática. :office:
 
