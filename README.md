@@ -14,7 +14,7 @@ Eu sou Ana Maria, graduada em Ciência de Dados no Centro Metodista Izabela Hend
 Sou uma pessoa calma, dedicada, adoro estudar sobre tecnologia pois é um área que 
 considero muito fascinante e cheia de oportunidades.
 
-*Site portifolio*: em desenvolvimento :warning:
+*Site portifolio*: em desenvolvimento. :warning:
 
 
 ## **Conecte-se comigo:**
