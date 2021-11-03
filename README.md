@@ -36,7 +36,7 @@ considero muito fascinante e cheia de oportunidades.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamariapego&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamariapego&langs_count=8&theme=dark)](https://github.com/anamariapego/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamariapego&layout=compact&theme=dark)](https://github.com/anamariapego/github-readme-stats)
 
 
 
