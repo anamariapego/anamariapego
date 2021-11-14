@@ -3,7 +3,7 @@
 </div>
 
 <div>
-    <img src="undraw_Dev_focus_re_6iwt.png" width="450" align="center">
+    <img src="undraw_Dev_focus_re_6iwt.png" width="450" align="right">
 </div>
 
 
@@ -17,7 +17,9 @@ considero muito fascinante e cheia de oportunidades.
 *Site portifolio*: em desenvolvimento. :warning:
 
 
+
 ## **Conecte-se comigo:**
+
 <a href="mailto:anapinheiro0404@gmail.com" alt="gmail" target="_blank">
 
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:anapinheiro0404@gmail.com" />
