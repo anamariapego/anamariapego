@@ -3,7 +3,7 @@
 </div>
 
 <div>
-    <img src="undraw_Dev_focus_re_6iwt.png" width="450" align="right">
+    <img src="dev.png" width="450" align="right">
 </div>
 
 
