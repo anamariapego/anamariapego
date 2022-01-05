@@ -39,7 +39,7 @@ a fim de contribuir na tomada de decisão através das análises!
 
 ##
 
-<p align="center">
+<p>
 <a href="https://github.com/anamariapego">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anamariapego&show_icons=true&theme=vue"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anamariapego&layout=compact&theme=vue"/>
