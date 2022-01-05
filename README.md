@@ -1,5 +1,5 @@
 <div align = "center">
-  <h1> Olá, bem vindo(a)! 👋</h1> 
+  <h1> Olá, bem vindo(a)!</h1> 
 </div>
 
 <div>
@@ -9,13 +9,14 @@
 
 ## Um pouco sobre mim
 
-Eu sou Ana Maria, graduada em Ciência de Dados no Centro Metodista Izabela Hendrix. :mortar_board:
+👩🏻‍💻 Sou uma Cientista de Dados
 
-Sou uma pessoa calma, dedicada, adoro estudar sobre tecnologia pois é um área que 
-considero muito fascinante e cheia de oportunidades.
+:mortar_board: Graduada no curso de ciência de dados no Centro Metodista Izabela Hendrix
 
-*Site portifolio*: em desenvolvimento. :warning:
+🧍🏻‍♀️ Sou comprometida com as minhas atribuições, dedicada e me esforço para conquistar algo que desejo
 
+📈 Estou em constante busca pelo aprimoramento dos meus conhecimentos na área de dados, com o objetivo de entender e tirar insights dos dados 
+a fim de contribuir na tomada de decisão através das análises!
 
 
 ## **Conecte-se comigo:**
@@ -31,6 +32,8 @@ considero muito fascinante e cheia de oportunidades.
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 
 </a>
+
+
 
 <p> </p>
 
