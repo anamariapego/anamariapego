@@ -37,7 +37,7 @@ a fim de contribuir na tomada de decisão através das análises!
 
 <p> </p>
 
-## Meus dados do GitHub
+##
 
 <p align="center">
 <a href="https://github.com/anamariapego">
