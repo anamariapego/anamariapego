@@ -39,9 +39,9 @@ a fim de contribuir na tomada de decisão através das análises!
 
 ## Meus dados do GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamariapego&layout=compact&hide_border=true)](https://github.com/anamariapego/github-readme-stats)
-
-![Ana Pego's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamariapego&show_icons=true&hide_border=true) 
-
-
-
+<p align="center">
+<a href="https://github.com/anamariapego">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anamariapego&show_icons=true&theme=vue"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anamariapego&layout=compact&theme=vue"/>
+</a>
+</p>
