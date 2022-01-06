@@ -9,11 +9,11 @@
 
 ## Um pouco sobre mim
 
-👩🏻‍💻 Sou uma Cientista de Dados
+👩🏻‍💻 Sou uma Cientista de Dados.
 
-:mortar_board: Graduada no curso de ciência de dados no Centro Metodista Izabela Hendrix
+:mortar_board: Graduada no curso de ciência de dados no Centro Metodista Izabela Hendrix.
 
-🧍🏻‍♀️ Sou comprometida com as minhas atribuições, dedicada e me esforço para conquistar algo que desejo
+🧍🏻‍♀️ Sou comprometida com as minhas atribuições, dedicada e me esforço para conquistar algo que desejo.
 
 📈 Estou em constante busca pelo aprimoramento dos meus conhecimentos na área de dados, com o objetivo de entender e tirar insights dos dados 
 a fim de contribuir na tomada de decisão através das análises!
