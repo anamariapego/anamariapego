@@ -13,7 +13,6 @@
 
 :mortar_board: Graduada no curso de ciência de dados no Centro Metodista Izabela Hendrix.
 
-🧍🏻‍♀️ Sou uma pessoa dedicada e comprometida com as minhas atribuições.
 
 📈 Estou em constante busca pelo aprimoramento dos meus conhecimentos na área de dados, com o objetivo de entender e tirar insights dos dados 
 a fim de contribuir na tomada de decisão através das análises!
