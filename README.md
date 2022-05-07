@@ -11,7 +11,7 @@
 
 👩🏻‍💻 Sou uma Cientista de Dados.
 
-:mortar_board: Graduada no curso de ciência de dados no Centro Metodista Izabela Hendrix.
+:mortar_board: Graduada no curso de **Ciência de Dados** no Centro Metodista Izabela Hendrix.
 
 
 📈 Estou em constante busca pelo aprimoramento dos meus conhecimentos na área de dados, com o objetivo de entender e tirar insights dos dados 
@@ -31,8 +31,6 @@ a fim de contribuir na tomada de decisão através das análises!
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 
 </a>
-
-
 
 <p> </p>
 
