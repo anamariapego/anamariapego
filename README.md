@@ -13,7 +13,7 @@ Sou graduada em *Ciência de Dados* 🎓 do Centro Universitário Metodista Izab
 <br/>
 
 <div>
-    <img src="git.png" width="450" align="right">
+    <img src="git.png" width="350" align="right">
 </div>
 
 ### 🧐 More about me:
