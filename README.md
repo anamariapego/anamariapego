@@ -19,7 +19,7 @@ Sou graduada em *Ciência de Dados* 🎓 do Centro Universitário Metodista Izab
 ### 🧐 More about me:
 
 * 🏢 Atuamente estou trabalhando na [JDC Tech & People](https://jdctech.com.br/).
-* 🛠  Atualmente estou trabalhando com Computer Vision, Machine Learning, Data Analysis.
+* 🛠  Estou trabalhando com Computer Vision, Machine Learning, Data Analysis.
 * 🌱 Atualmente estou aprendendo *MongoBD* e *Spark*.
 * 👨🏻‍💻 Os meus projetos estão disponíveis no meu [Github](https://github.com/anamariapego).
 * 📫 Sinta-se à vontade para me enviar mensagem no [LinkedIn](https://www.linkedin.com/in/ana-pego/).
