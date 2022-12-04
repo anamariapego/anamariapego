@@ -6,7 +6,7 @@
 <br/>
 
 <div>
-    <img src="gh.jpg" width="350" align="right">
+    <img src="dc.png" width="500" align="right">
 </div>
 
 ### <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim:
@@ -15,10 +15,10 @@
 * 🛠  Estou trabalhando com Computer Vision, Machine Learning, Data Analysis.
 * 🌱 Atualmente estou aprendendo *Spark*.
 * 👨🏻‍💻 Os meus projetos estão disponíveis no meu [Github](https://github.com/anamariapego).
-* 📫 Sinta-se à vontade para me enviar mensagem no [LinkedIn](https://www.linkedin.com/in/ana-pego/).
 * 📑 Confira meu [Currículo](https://drive.google.com/file/d/1JGYs21xKyVSxaHCMqJZB1K1D_qDhJILV/view?usp=sharing).
 * 🗃️ Aqui estão os meus [Certificados](https://drive.google.com/drive/folders/1t_adGWdgqYNaekqp4jMj4u5KKMU6fIyh?usp=sharing) que adquirei até hoje.
 * 📚🎵 Quando estou livre gosto de ler, jogar (tipo caça-palavras, quebra-cabeça, interligado, etc.), ouvir música e ter uma boa conversa. 
+* 📫 Sinta-se à vontade para me enviar mensagem no [LinkedIn](https://www.linkedin.com/in/ana-pego/) ou [E-mail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox).
 
 <br>
 
