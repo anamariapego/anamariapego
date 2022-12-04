@@ -1,22 +1,15 @@
-## Hello 👋, I'm Ana!
+##  💚 Olá, meu nome é <strong>Ana! 👩🏻‍💻</strong>
 
-<a href="https://www.linkedin.com/in/ana-pego" alt="linkedin" target="_blank"> 
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:anapinheiro0404@gmail.com" alt="gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:anapinheiro0404@gmail.com" />
-</a>
-<br/>
-<br/>
+> 🎓 Sou graduada em *Ciência de Dados* no  🏛 Centro Universitário Metodista Izabela Hendrix. 
 
-Sou graduada em *Ciência de Dados* 🎓 do Centro Universitário Metodista Izabela Hendrix 🏛. Estou em constante busca pelo aprimoramento dos meus conhecimentos na área de dados, com o objetivo de entender e tirar insights dos dados a fim de contribuir na tomada de decisão através das análises! 💻🎲
+>Estou em constante busca pelo aprimoramento dos meus conhecimentos na área de dados, com o objetivo de entender e tirar insights dos dados a fim de contribuir na    tomada de decisão através das análises! 💻🎲
 <br/>
 
 <div>
-    <img src="git.png" width="350" align="right">
+    <img src="gh.png" width="350" align="right">
 </div>
 
-### 🧐 More about me:
+### <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim:
 
 * 🏢 Atuamente estou trabalhando na [JDC Tech & People](https://jdctech.com.br/).
 * 🛠  Estou trabalhando com Computer Vision, Machine Learning, Data Analysis.
