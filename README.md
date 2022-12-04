@@ -18,7 +18,7 @@
 * 📑 Confira meu [Currículo](https://drive.google.com/file/d/1JGYs21xKyVSxaHCMqJZB1K1D_qDhJILV/view?usp=sharing).
 * 🗃️ Aqui estão os meus [Certificados](https://drive.google.com/drive/folders/1t_adGWdgqYNaekqp4jMj4u5KKMU6fIyh?usp=sharing) que adquirei até hoje.
 * 📚🎵 Quando estou livre gosto de ler, jogar (tipo caça-palavras, quebra-cabeça, interligado, etc.), ouvir música e ter uma boa conversa. 
-* 📫 Sinta-se à vontade para me enviar mensagem no [LinkedIn](https://www.linkedin.com/in/ana-pego/) ou [E-mail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox).
+* 📫 Sinta-se à vontade para me enviar mensagem no [LinkedIn](https://www.linkedin.com/in/ana-pego/) ou [E-mail](mailto:anapinheiro0404@gmail.com).
 
 <br>
 
