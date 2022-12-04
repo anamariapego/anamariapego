@@ -6,7 +6,7 @@
 <br/>
 
 <div>
-    <img src="gh.png" width="350" align="right">
+    <img src="gh.jpg" width="350" align="right">
 </div>
 
 ### <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim:
