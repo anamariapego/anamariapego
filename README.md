@@ -9,7 +9,7 @@
     <img src="dc.png" width="500" align="right">
 </div>
 
-### <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim:
+## 👩 Mais sobre mim:
 
 * 🏢 Atuamente estou trabalhando na [JDC Tech & People](https://jdctech.com.br/).
 * 🛠  Estou trabalhando com Computer Vision, Machine Learning, Data Analysis.
@@ -19,10 +19,9 @@
 * 🗃️ Aqui estão os meus [Certificados](https://drive.google.com/drive/folders/1t_adGWdgqYNaekqp4jMj4u5KKMU6fIyh?usp=sharing) que adquirei até hoje.
 * 📚🎵 Quando estou livre gosto de ler, jogar (tipo caça-palavras, quebra-cabeça, interligado, etc.), ouvir música e ter uma boa conversa. 
 * 📫 Sinta-se à vontade para me enviar mensagem no [LinkedIn](https://www.linkedin.com/in/ana-pego/) ou [E-mail](mailto:anapinheiro0404@gmail.com).
-
 <br>
 
-### 🛠 Languages and Tools:
+## 🛠 Linguagens e Ferramentas:
 
 <a href="https://www.python.org" target="_blank">
   <img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -30,8 +29,6 @@
 <a href="https://www.r-project.org/" target="_blank">
   <img align="left" alt="R" height ="42px" src="https://producaoanimalcomr.files.wordpress.com/2016/02/rstudio-ball.png"></a>
   
-<a href="https://shiny.rstudio.com/" target="_blank">
-  <img align="left" alt="Shiny" height ="42px" src="https://curso-r.github.io/201911-dashboards/slides_shiny/img/hex-shiny.png"></a>
   
 <a href="https://powerbi.microsoft.com/pt-br/" target="_blank">
   <img align="left" alt="PowerBI" height ="42px" src="https://bessa-consultores.com.br/wp-content/uploads/2021/07/Microsoft-Power-BI-logo1.png"></a>
@@ -43,13 +40,12 @@
 <br/>
 <br/>
 
-<details>	
-  <summary><b>📊 Github Stats</b></summary>
-  <br />
-  <p align="center">
-  <a href="https://github.com/anamariapego">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anamariapego&show_icons=true&theme=vue"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anamariapego&layout=compact&theme=vue"/>
-  </a>
-  </p>
-</details>
+## 📊 GitHub Status
+
+<a href="https://github.com/anamariapego">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anamariapego&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/anamariapego">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=anamariapego&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
