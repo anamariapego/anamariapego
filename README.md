@@ -12,8 +12,8 @@
 ## 👩 Mais sobre mim:
 
 * 🏢 Atuamente estou trabalhando na [JDC Tech & People](https://jdctech.com.br/).
-* 🛠  Estou trabalhando com Computer Vision, Machine Learning, Data Analysis.
-* 🌱 Atualmente estou aprendendo *Spark*.
+* 🛠  Estou trabalhando com Computer Vision, Machine Learning e Data Analysis.
+* 🌱 Atualmente estou fazendo *Pós-Graduação em Iinteligência Artificial e Machine Learning na PucMinas*.
 * 👨🏻‍💻 Os meus projetos estão disponíveis no meu [Github](https://github.com/anamariapego).
 * 📑 Confira meu [Currículo](https://drive.google.com/file/d/1JGYs21xKyVSxaHCMqJZB1K1D_qDhJILV/view?usp=sharing).
 * 🗃️ Aqui estão os meus [Certificados](https://drive.google.com/drive/folders/1t_adGWdgqYNaekqp4jMj4u5KKMU6fIyh?usp=sharing) que adquiri até hoje.
