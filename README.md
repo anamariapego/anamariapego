@@ -15,7 +15,7 @@
 * 🛠  Estou trabalhando com Computer Vision, Machine Learning e Data Analysis.
 * 🌱 Atualmente estou fazendo *Pós-Graduação em Iinteligência Artificial e Machine Learning na PucMinas*.
 * 👨🏻‍💻 Os meus projetos estão disponíveis no meu [Github](https://github.com/anamariapego).
-* 📑 Confira meu [Currículo](https://drive.google.com/file/d/1sYlgM2UIJQi5036e569nbeckBy1yIEVB/view?usp=sharing).
+* 📑 Confira meu [Currículo](https://drive.google.com/file/d/1sYlgM2UIJQi5036e569nbeckBy1yIEVB/view?usp=share_link).
 * 🗃️ Aqui estão os meus [Certificados](https://drive.google.com/drive/folders/1t_adGWdgqYNaekqp4jMj4u5KKMU6fIyh?usp=sharing) que adquiri até hoje.
 * 📚🎵 Quando estou livre gosto de ler, jogar (tipo caça-palavras, quebra-cabeça, interligado, etc.), ouvir música e ter uma boa conversa. 
 * 📫 Sinta-se à vontade para me enviar mensagem no [LinkedIn](https://www.linkedin.com/in/ana-pego/) ou [E-mail](mailto:anapinheiro0404@gmail.com).
