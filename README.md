@@ -3,7 +3,7 @@
 <!--<div>
     <img src="dc.png" width="300" align="right">
 </div> -->
-<img src="https://im4.ezgif.com/tmp/ezgif-4-3a80eac71a.gif"  align="right">
+<img src="gif.gif"  align="right">
 
 > Eu sou graduada em **Ciência de Dados** pela Centro Universitário Metodista Izabela Hendrix. 
 > Continuo buscando melhorar minhas habilidades em análise de dados para ajudar na tomada de decisões bem fundamentadas. Acredito que a compreensão e a extração
