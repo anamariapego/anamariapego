@@ -41,7 +41,7 @@
 
 <img src="https://user-images.githubusercontent.com/57241391/216842730-cb1470a0-a340-46de-946e-0ac18048cb2a.png"  height="25"> Data Analytics.
 
-## 📊 GitHub Status
+## GitHub Status
 
 ![](https://komarev.com/ghpvc/?username=anamariapego&color=green)
 
