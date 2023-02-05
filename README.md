@@ -43,6 +43,7 @@
 
 ## 📊 GitHub Status
 
+![](https://komarev.com/ghpvc/?username=anamariapego&color=green)
 
 <p align="center">
 <a href="https://github.com/anamariapego">
