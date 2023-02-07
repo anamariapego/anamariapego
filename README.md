@@ -10,7 +10,7 @@
  de insights dos dados é fundamental para o sucesso em minha área. 🎲💚
 <br/>
 
-## Mais sobre mim:
+## Mais sobre mim
 
 <img src="https://user-images.githubusercontent.com/57241391/216839892-79024658-8384-4a35-b903-c634cd2cf7d3.png" height="25">  Atuamente estou trabalhando na [JDC Tech & People](https://jdctech.com.br/).
 
@@ -27,7 +27,7 @@
 <img src="https://user-images.githubusercontent.com/57241391/216840591-dae323e4-f0ca-47c3-86a1-53caf1f307ba.png" height="25">  Sinta-se à vontade para me enviar mensagem no [LinkedIn](https://www.linkedin.com/in/ana-pego/) ou [E-mail](mailto:anapinheiro0404@gmail.com).
 <br>
 
-## Hard Skills:
+## Hard Skills
 
 <img src="https://user-images.githubusercontent.com/57241391/216841855-87ae58be-46d5-4434-bd49-eba464e8f8f6.png"  height="25"> Python.
 
