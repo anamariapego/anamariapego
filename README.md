@@ -5,11 +5,11 @@
 </div> -->
 <img src="gif.gif"  align="right">
 
-> Sou formada em *Ciência de Dados* pelo Centro Universitário Metodista Izabela Hendrix e atualmente estou cursando pós-graduação em *Inteligência Artificial e Aprendizado de Máquina* na PUC-Minas.
+> Sou formada em **Ciência de Dados** pelo Centro Universitário Metodista Izabela Hendrix e atualmente estou cursando pós-graduação em **Inteligência Artificial e Aprendizado de Máquina** na PUC-Minas.
 >
 > Estou sempre em busca de desafios e oportunidades que me permitam aplicar minhas habilidades analíticas para transformar dados em informações valiosas e estratégicas. Acredito que a compreensão e a extração de insights a partir dos dados são fundamentais para o sucesso em minha área de atuação. 🎲💚
 > 
-> Fique à vontade para explorar meus projetos e contribuições nesta página. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em Ciência de Dados e Inteligência Artificial.
+> Fique à vontade para explorar meus projetos e contribuições nesta página.
 
 <br/>
 
@@ -26,22 +26,9 @@
 
 ## Hard Skills
 
-**Linguaguens de Programação**
-
-| [Python](https://www.python.org/) | [R](https://www.r-project.org/) |
-| --- | --- |
-
-**Banco de Dados**
-| [MongoDB](https://www.mongodb.com/) |
-| --- |
-
-**Integração de Dados**
-| [Pentaho Data Integration](https://help.hitachivantara.com/Documentation/Pentaho/8.3/Products/Pentaho_Data_Integration) |
-| --- |
-
-**Subcampo da Ciência de Dados**
-| [Machine Learning](https://aws.amazon.com/pt/what-is/machine-learning/) | [Data Analytics](https://aws.amazon.com/pt/what-is/data-analytics/) |
-| --- | --- |
+| **Linguagens de Programação** | **Banco de Dados** | **Integração de Dados** | **Subcampo da Ciência de Dados** |
+| --- | --- | --- | --- |
+| [Python](https://www.python.org/), [R](https://www.r-project.org/) | [MongoDB](https://www.mongodb.com/) | [Pentaho Data Integration](https://help.hitachivantara.com/Documentation/Pentaho/8.3/Products/Pentaho_Data_Integration) | [Machine Learning](https://aws.amazon.com/pt/what-is/machine-learning/), [Data Analytics](https://aws.amazon.com/pt/what-is/data-analytics/) |
 
 
 ## GitHub Status
