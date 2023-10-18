@@ -28,7 +28,7 @@
 
 | **Linguagens de Programação** | **Banco de Dados** | **Integração de Dados** | **Subcampo da Ciência de Dados** |
 | --- | --- | --- | --- |
-| [Python](https://www.python.org/), [R](https://www.r-project.org/) | [MongoDB](https://www.mongodb.com/) | [Pentaho Data Integration](https://help.hitachivantara.com/Documentation/Pentaho/8.3/Products/Pentaho_Data_Integration) | [Machine Learning](https://aws.amazon.com/pt/what-is/machine-learning/), [Data Analytics](https://aws.amazon.com/pt/what-is/data-analytics/) |
+| [Python](https://www.python.org/), [R](https://www.r-project.org/) | [MongoDB](https://www.mongodb.com/), [SQL](https://aws.amazon.com/pt/what-is/sql/) | [Pentaho Data Integration](https://help.hitachivantara.com/Documentation/Pentaho/8.3/Products/Pentaho_Data_Integration) | [Machine Learning](https://aws.amazon.com/pt/what-is/machine-learning/), [Data Analytics](https://aws.amazon.com/pt/what-is/data-analytics/) |
 
 
 ## GitHub Status
