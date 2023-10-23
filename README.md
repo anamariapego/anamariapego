@@ -16,7 +16,7 @@
 ### Mais sobre mim
 
 
-<img src="https://user-images.githubusercontent.com/57241391/216840069-b1a1201f-999f-49cf-8559-e70c089e1fe7.png" height="30">  Confira meu [Currículo](https://drive.google.com/file/d/18eK3RHi2e8CKUwmDhBXvC8Xz6lc9hT76/view?usp=sharing).
+<img src="https://user-images.githubusercontent.com/57241391/216840069-b1a1201f-999f-49cf-8559-e70c089e1fe7.png" height="30">  Confira meu [Currículo](https://drive.google.com/file/d/1Knn5j5cYAC-elvUjgBGmAUCZs4UE3avL/view?usp=share_link).
 
 <img src="https://user-images.githubusercontent.com/57241391/216840287-e9d5ddd4-1471-47e2-88d2-955411d335db.png" height="25">  Aqui estão os meus [Certificados](https://drive.google.com/drive/folders/1CoXty75aoEL0Y-cncc0xwQNmC-eb9P7M?usp=drive_link) que adquiri até hoje.
 
