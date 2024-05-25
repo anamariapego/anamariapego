@@ -21,7 +21,7 @@ Projetos em destaque: [LM Fomento](https://spro.com.br/controle-de-proteina-anim
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ana-pego/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 
 ## 🌟 Minhas Skills
