@@ -1,4 +1,4 @@
-## Olá, meu nome é Ana!👩🏻‍💻
+## 👩🏻‍💻 Olá, meu nome é Ana!
 
 
 Sou formada em **Ciência de Dados** pelo Centro Universitário Metodista Izabela Hendrix e atualmente estou cursando pós-graduação em **Inteligência Artificial e Aprendizado de Máquina** na PUC-Minas.
@@ -7,7 +7,6 @@ Estou sempre em busca de desafios e oportunidades que me permitam aplicar minhas
  
 Fique à vontade para explorar meus projetos e contribuições nesta página. Se tiver alguma pergunta ou estiver interessado em colaborar, não hesite em entrar em contato!
 
-<br/>
 
 ## 💼 Experiência de trabalho
 
@@ -24,7 +23,6 @@ Projetos em destaque: [LM Fomento](https://spro.com.br/controle-de-proteina-anim
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
-<br/>
 
 ## 🌟 Minhas Skills
 
@@ -41,13 +39,12 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitFlow](https://img.shields.io/badge/-GitFlow-333333?style=flat&logo=gitflow)
 
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
 
 ## ⚙️ GitHub Analytics
 
