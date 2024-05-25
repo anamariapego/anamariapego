@@ -1,39 +1,80 @@
 ## Olá, meu nome é Ana!👩🏻‍💻
 
 
-> Sou formada em **Ciência de Dados** pelo Centro Universitário Metodista Izabela Hendrix e atualmente estou cursando pós-graduação em **Inteligência Artificial e Aprendizado de Máquina** na PUC-Minas.
->
-> Estou sempre em busca de desafios e oportunidades que me permitam aplicar minhas habilidades analíticas para transformar dados em informações valiosas e estratégicas. Acredito que a compreensão e a extração de insights a partir dos dados são fundamentais para o sucesso em minha área de atuação. 🎲💚
-> 
-> Fique à vontade para explorar meus projetos e contribuições nesta página.
+Sou formada em **Ciência de Dados** pelo Centro Universitário Metodista Izabela Hendrix e atualmente estou cursando pós-graduação em **Inteligência Artificial e Aprendizado de Máquina** na PUC-Minas.
+
+Estou sempre em busca de desafios e oportunidades que me permitam aplicar minhas habilidades analíticas para transformar dados em informações valiosas e estratégicas. Acredito que a compreensão e a extração de insights a partir dos dados são fundamentais para o sucesso em minha área de atuação. 🎲💚
+ 
+Fique à vontade para explorar meus projetos e contribuições nesta página. Se tiver alguma pergunta ou estiver interessado em colaborar, não hesite em entrar em contato!
 
 <br/>
 
-### Mais sobre mim
+## 💼 Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/anamariapego/anamariapego/assets/57241391/e09e5324-db07-4fbf-9883-d81a9050011d"/>](https://spro.com.br/)
+
+**Cientista de Dados/DataOps** \
+[**SPRO IT Solutions**](https://spro.com.br/) • Full-time \
+Linguagens & Tecnologias: `Python`, `MongoDB`, `Pentaho`, `Airflow`\
+Projetos em destaque: [LM Fomento](https://spro.com.br/controle-de-proteina-animal/), [Garner](https://spro.com.br/garner/), [eProdutor](https://eprodutor.com.br/)
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+<br/>
+
+## 🌟 Minhas Skills
+
+**Aplicações e dados**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
+![Pentaho Data Integration](https://img.shields.io/badge/-Pentaho%20Data%20Integration-005DAA?style=flat&logo=Pentaho&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=Apache-Airflow&logoColor=white)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
+## ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=anamariapego&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=anamariapego&theme=vue-dark&hide_border=false"
+        alt="GitHub Streak Stats"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamariapego&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 
-<img src="https://user-images.githubusercontent.com/57241391/216840069-b1a1201f-999f-49cf-8559-e70c089e1fe7.png" height="30">  Confira meu [Currículo](https://drive.google.com/file/d/1Knn5j5cYAC-elvUjgBGmAUCZs4UE3avL/view?usp=share_link).
 
-<img src="https://user-images.githubusercontent.com/57241391/216840287-e9d5ddd4-1471-47e2-88d2-955411d335db.png" height="25">  Aqui estão os meus [Certificados](https://drive.google.com/drive/folders/1CoXty75aoEL0Y-cncc0xwQNmC-eb9P7M?usp=drive_link) que adquiri até hoje.
-
-
-<img src="https://user-images.githubusercontent.com/57241391/216840591-dae323e4-f0ca-47c3-86a1-53caf1f307ba.png" height="25">  Sinta-se à vontade para me enviar mensagem no [LinkedIn](https://www.linkedin.com/in/ana-pego/) ou [E-mail](mailto:anapinheiro0404@gmail.com).
-<br>
-
-## Hard Skills
-
-| **Linguagens de Programação** | **Banco de Dados** | **Integração de Dados** | **Subcampo da Ciência de Dados** |
-| --- | --- | --- | --- |
-| [Python](https://www.python.org/), [R](https://www.r-project.org/) | [MongoDB](https://www.mongodb.com/), [SQL](https://aws.amazon.com/pt/what-is/sql/) | [Pentaho Data Integration](https://help.hitachivantara.com/Documentation/Pentaho/8.3/Products/Pentaho_Data_Integration), [Apache Airflow](https://airflow.apache.org/) | [Machine Learning](https://aws.amazon.com/pt/what-is/machine-learning/), [Data Analytics](https://aws.amazon.com/pt/what-is/data-analytics/) |
-
-
-## GitHub Status
-
-![](https://komarev.com/ghpvc/?username=anamariapego&color=green)
-
-<p align="center">
-<a href="https://github.com/anamariapego">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anamariapego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anamariapego&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
