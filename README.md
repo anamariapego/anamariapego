@@ -19,6 +19,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**SPRO IT Solutions**](https://spro.com.br/) • Full-time \
 Linguagens & Tecnologias: `Python`, `MongoDB`, `Pentaho`, `Airflow`\
 Projetos em destaque: [LM Fomento](https://spro.com.br/controle-de-proteina-animal/), [Garner](https://spro.com.br/garner/), [eProdutor](https://eprodutor.com.br/)
+<br/>
+<br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
