@@ -39,7 +39,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ana-pego/) para
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitFlow](https://img.shields.io/badge/-GitFlow-333333?style=flat&logo=gitflow)
 
 **Ferramentas de desenvolvimento**
 
@@ -60,20 +59,28 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ana-pego/) para
     <td>
       <img
         align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamariapego&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true"
+        alt="Top Languages"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=anamariapego&theme=vue-dark&hide_border=false"
         alt="GitHub Streak Stats"
       />
     </td>
   </tr>
-  <tr>
+</table>
+
+<!--   <tr>
     <td colspan="2" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamariapego&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Top Languages"
       />
     </td>
-  </tr>
+  </tr> -->
 </table>
-
-
 
