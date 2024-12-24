@@ -1,87 +1,43 @@
-## 👩🏻‍💻 Olá, meu nome é Ana!
+## 👋 Olá! Eu sou a Ana Maria
 
+**Cientista de Dados | DataOps**
 
-Sou formada em **Ciência de Dados** pelo Centro Universitário Metodista Izabela Hendrix e atualmente estou cursando pós-graduação em **Inteligência Artificial e Aprendizado de Máquina** na PUC-Minas.
+Sou graduada em **Ciência de Dados** pelo [Centro Universitário Metodista Izabela Hendrix](http://izabelahendrix.edu.br) 
+e pós-graduada em **Inteligência Artificial e Aprendizado de Máquina** pela [PUC-Minas](https://www.pucminas.br/destaques/Paginas/default.aspx).
 
-Estou sempre em busca de desafios e oportunidades que me permitam aplicar minhas habilidades analíticas para transformar dados em informações valiosas e estratégicas. Acredito que a compreensão e a extração de insights a partir dos dados são fundamentais para o sucesso em minha área de atuação. 🎲💚
- 
-Fique à vontade para explorar meus projetos e contribuições nesta página. Se tiver alguma pergunta ou estiver interessado em colaborar, não hesite em entrar em contato!
+O **GitHub** é o meu principal repositório para os projetos que desenvolvo.
 
+Fique à vontade para explorar meus projetos e contribuir! 🚀
 
 ## 💼 Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/anamariapego/anamariapego/assets/57241391/e09e5324-db07-4fbf-9883-d81a9050011d"/>](https://spro.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/7dc99be9-99a6-4778-b66b-6e593669bc62"/>](https://www.eaware.com.br/)
 
 **Cientista de Dados/DataOps** \
-[**SPRO IT Solutions**](https://spro.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `MongoDB`, `Pentaho`, `Airflow`\
+[**E-Aware Technologies**](https://www.eaware.com.br/) • Full-time \
+Linguagens & Tecnologias:  `Python`, `GoLang`, `MongoDB`, `Pentaho`, `ETL`, `Airflow`, `APIs`, `Machine Learning`\
 Projetos em destaque: [LM Fomento](https://spro.com.br/controle-de-proteina-animal/), [Garner](https://spro.com.br/garner/), [eProdutor](https://eprodutor.com.br/)
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ana-pego/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
+Para mais detalhes sobre minha experiência, educação e certificações, confira meu [LinkedIn](https://www.linkedin.com/in/ana-pego/).
 
 ## 🌟 Minhas Skills
-
-**Aplicações e dados**
+Abaixo estão minhas principais habilidades em **linguagens de programação**, **banco de dados**, **ferramentas de ETL**, **machine learning** e **análise de dados**.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
+![GoLang](https://img.shields.io/badge/-GoLang-00ADD8?style=flat&logo=Go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
 ![Pentaho Data Integration](https://img.shields.io/badge/-Pentaho%20Data%20Integration-005DAA?style=flat&logo=Pentaho&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=Apache-Airflow&logoColor=white)
-
-**DevOps**
-
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=flat&logo=TensorFlow&logoColor=white)
+![IA](https://img.shields.io/badge/-IA-009688?style=flat&logo=Artificial-Intelligence&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-007BFF?style=flat&logo=Tableau&logoColor=white)
+![Shiny](https://img.shields.io/badge/-Shiny-276DC3?style=flat&logo=R&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-## ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=anamariapego&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamariapego&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true"
-        alt="Top Languages"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=anamariapego&theme=vue-dark&hide_border=false"
-        alt="GitHub Streak Stats"
-      />
-    </td>
-  </tr>
-</table>
-
-<!--   <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamariapego&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Top Languages"
-      />
-    </td>
-  </tr> -->
-</table>
-
