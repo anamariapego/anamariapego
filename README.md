@@ -18,7 +18,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Cientista de Dados/DataOps** \
 [**E-Aware Technologies**](https://www.eaware.com.br/) • Full-time \
 Linguagens & Tecnologias:  `Python`, `GoLang`, `MongoDB`, `Pentaho`, `ETL`, `Airflow`, `APIs`, `Machine Learning`\
-Projetos em destaque: [LM Fomento](https://spro.com.br/controle-de-proteina-animal/), [Garner](https://spro.com.br/garner/), [eProdutor](https://eprodutor.com.br/)
+<!-- Projetos em destaque: [LM Fomento](https://spro.com.br/controle-de-proteina-animal/), [Garner](https://spro.com.br/garner/), [eProdutor](https://eprodutor.com.br/) -->
 <br/>
 <br/>
 
