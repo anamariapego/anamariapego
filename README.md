@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou a Ana Maria
 
-**Cientista de Dados | DataOps**
+**Cientista de Dados**
 
 Sou graduada em **Ciência de Dados** pelo [Centro Universitário Metodista Izabela Hendrix](http://izabelahendrix.edu.br) 
 e pós-graduada em **Inteligência Artificial e Aprendizado de Máquina** pela [PUC-Minas](https://www.pucminas.br/destaques/Paginas/default.aspx).
@@ -15,9 +15,9 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/7dc99be9-99a6-4778-b66b-6e593669bc62"/>](https://www.eaware.com.br/)
 
-**Cientista de Dados/DataOps** \
+**Cientista de Dados** \
 [**E-Aware Technologies**](https://www.eaware.com.br/) • Full-time \
-Linguagens & Tecnologias:  `Python`, `GoLang`, `MongoDB`, `Pentaho`, `ETL`, `Airflow`, `APIs`, `Machine Learning`\
+Linguagens & Tecnologias:  `Python`, `GoLang`, `MongoDB`, `Pentaho`, `ETL`, `Airflow`, `APIs`, `Machine Learning`
 <!-- Projetos em destaque: [LM Fomento](https://spro.com.br/controle-de-proteina-animal/), [Garner](https://spro.com.br/garner/), [eProdutor](https://eprodutor.com.br/) -->
 <br/>
 <br/>
