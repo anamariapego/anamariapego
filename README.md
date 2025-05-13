@@ -13,11 +13,11 @@ Fique à vontade para explorar meus projetos e contribuir! 🚀
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/7dc99be9-99a6-4778-b66b-6e593669bc62"/>](https://www.eaware.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/f34deace-8544-4156-a2a1-92a6946196f4">](https://sejaefi.com.br/)
 
 **Cientista de Dados** \
-[**E-Aware Technologies**](https://www.eaware.com.br/) • Full-time \
-Linguagens & Tecnologias:  `Python`, `GoLang`, `MongoDB`, `Pentaho`, `ETL`, `Airflow`, `APIs`, `Machine Learning`
+[**Efí Bank**]([https://sejaefi.com.br/]) • Full-time \
+Linguagens & Tecnologias:  `Python`, `SQL`, `APIs`, `Machine Learning`
 <!-- Projetos em destaque: [LM Fomento](https://spro.com.br/controle-de-proteina-animal/), [Garner](https://spro.com.br/garner/), [eProdutor](https://eprodutor.com.br/) -->
 <br/>
 <br/>
