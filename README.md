@@ -31,7 +31,7 @@ Tecnologias & Metodologias:
 
 ---
 
-## 🌟 Minhas Skills  
+### 🌟 Minhas Skills  
 
 Abaixo estão minhas principais habilidades em **linguagens de programação**, **bancos de dados**, **engenharia de dados**, **machine learning** e **boas práticas de desenvolvimento**:  
 
