@@ -8,7 +8,7 @@
 Sou formada em **Ciência de Dados** pelo [Centro Universitário Metodista Izabela Hendrix](http://izabelahendrix.edu.br)  
 e pós-graduada em **Inteligência Artificial e Aprendizado de Máquina** pela [PUC-Minas](https://www.pucminas.br/destaques/Paginas/default.aspx).  
 
-Atualmente, atuo como **Cientista de Dados na Efí**, desenvolvendo soluções de backend com **Python** e **SQLAlchemy**, integrando bancos de dados relacionais (**MySQL** e **PostgreSQL**), desenvolvimento de **APIs**, análises de dados e implementando **testes unitários** com foco em **Clean Code** e **Clean Architecture**.  
+Atualmente, atuo como **Cientista de Dados na Efí**, desenvolvendo soluções de backend com **Python** e **SQLAlchemy**, integrando bancos de dados relacionais (**MySQL** e **PostgreSQL**), desenvolvimento de **APIs**, **análises de dados** e implementando **testes unitários** com foco em **Clean Code** e **Clean Architecture**.  
 
 Tenho experiência em **pipelines de dados**, **modelos preditivos** e **análise de dados**, aplicando ciência de dados e IA para resolver desafios complexos e gerar valor estratégico para o negócio.  
 
