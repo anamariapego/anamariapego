@@ -1,6 +1,11 @@
-## 👋 Olá! Eu sou a Ana Maria
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A62B2B&height=150&section=header&text=Ana%20Pego&fontSize=40&fontColor=F4F1EA&animation=fadeIn&fontAlignY=35&desc=Engenheira%20de%20Inteligência%20Antifraude&descAlignY=55&descSize=15" alt="Header Adonis Oliveira" />
+</div>
 
-**Engenheira de Inteligência Antifraude | Data Science | Machine Learning & IA | APIs**
+<p align="center">
+  <em>Inteligência Antifraude | Data Science | Machine Learning & IA | APIs.</em>
+</p>
+
 
 ---
 
@@ -43,9 +48,6 @@ O **GitHub** é o meu principal repositório de projetos – fique à vontade pa
 
 `Machine Learning` `Data Analysis` `Feature Engineering` `Model Evaluation`
 
-**Fraud & Risk** 
-
-`Fraud Detection` `Risk Scoring` `Rules Engine` `Transaction Analysis`
 
 **Backend & Engineering**
 
@@ -63,4 +65,12 @@ O **GitHub** é o meu principal repositório de projetos – fique à vontade pa
 
 ### 📫 Onde me encontrar
 
-[LinkedIn](https://www.linkedin.com/in/ana-pego/) | [GitHub](https://github.com/anamariapego)
+[LinkedIn](https://www.linkedin.com/in/ana-pego/)
+
+[GitHub](https://github.com/anamariapego)
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A62B2B&height=100&section=footer" alt="Footer" />
+</div>
