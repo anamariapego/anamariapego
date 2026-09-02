@@ -25,7 +25,7 @@ O **GitHub** é o meu principal repositório de projetos – fique à vontade pa
 
 [<img align="left" height="94px" width="94px" alt="Efí Bank" src="https://github.com/user-attachments/assets/f34deace-8544-4156-a2a1-92a6946196f4">](https://sejaefi.com.br/)
 
-**Engenheira de Inteligência Antifraude** \
+**Engenheiro de Inteligência Antifraude** \
 [**Efí Bank**](https://sejaefi.com.br/) • Full-time
 
 • Desenvolvimento de processos antifraude
